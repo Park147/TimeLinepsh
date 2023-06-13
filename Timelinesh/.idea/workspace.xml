@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fb88348-87c3-4371-8882-32e837856e86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/java/com/example/seohyun_androidproject/Follow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/java/com/example/seohyun_androidproject/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/java/com/example/seohyun_androidproject/MyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/java/com/example/seohyun_androidproject/comment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/anniversary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/best.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/bookmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/dining.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/mydining.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/place.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/profiler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/reserve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/round_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/wait.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/layout/noticech.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/menu/notice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/java/com/example/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timeline/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/androidTest/java/fragement/fragment1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/androidTest/java/fragement/fragment2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/androidTest/java/fragement/fragment3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/androidTest/java/fragement/fragment4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/timeline/Follow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/timeline/Following.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/timeline/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/timeline/MyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/timeline/comment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/anniversary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/best.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bookmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/date_reservation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/dining.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/leftarrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/mydining.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/notice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/place.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/profiler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/reserve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/round_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/timeline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/wait.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_1p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_2p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_3p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_4p.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/menu/actionmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/menu/notice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/values/ids.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/AndroidStudioProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1st-Web-App-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../1st-Web-App-Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android-ZZin" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-ZZin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidLab" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidLab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K230201AndroidLab" beforeDir="false" afterPath="$PROJECT_DIR$/../K230201AndroidLab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/java/com/example/seohyun_androidproject/Notice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/java/com/example/seohyun_androidproject/heart.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/java/com/example/seohyun_androidproject/Recommend.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/java/com/example/seohyun_androidproject/MainRecoActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/alarm.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/drawable/notice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/layout/timeline_recommend_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/menu/bottomnavigationview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/menu/menu_timeline.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Seohyun_AndroidProject/app/src/main/res/menu/menu_timeline.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2R5kUTf3XgkCJMQ1UkJCVaicqQ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/admin/AndroidStudioProjects/Timeline"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fb88348-87c3-4371-8882-32e837856e86" name="Changes" comment="" />
+      <created>1686547345255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686547345255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
